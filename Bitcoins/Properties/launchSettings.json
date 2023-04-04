@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Bitcoins": {
+      "commandName": "Project",
+      "commandLineArgs": "seed 6 10.3.3.210 9000 ",
+      "remoteDebugEnabled": false
+    }
+  }
+}

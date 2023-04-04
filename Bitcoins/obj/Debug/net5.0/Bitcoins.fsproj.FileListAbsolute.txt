@@ -1,0 +1,114 @@
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.fsproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.AssemblyInfo.fs
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.exe
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.deps.json
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.runtimeconfig.json
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.pdb
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.Cluster.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.Coordination.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.FSharp.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.Remote.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Akka.Serialization.Hyperion.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Buffers.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Codecs.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Common.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Handlers.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Transport.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\FSharp.Core.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\FSharp.Quotations.Evaluator.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\FsPickler.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Hyperion.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.fsproj.CopyComplete
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.dll
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.pdb
+C:\Users\DELL\Desktop\COURSES\DOSP\PROJECT\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.genruntimeconfig.cache
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.exe
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.deps.json
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.runtimeconfig.json
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.runtimeconfig.dev.json
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Bitcoins.pdb
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.Cluster.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.Coordination.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.FSharp.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.Remote.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Akka.Serialization.Hyperion.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Buffers.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Codecs.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Common.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Handlers.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\DotNetty.Transport.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\FSharp.Core.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\FSharp.Quotations.Evaluator.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\FsPickler.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Hyperion.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\cs\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\de\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\es\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\fr\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\it\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\ja\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\ko\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\pl\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\pt-BR\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\ru\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\tr\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\zh-Hans\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\zh-Hant\FSharp.Core.resources.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.fsproj.AssemblyReference.cache
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.AssemblyInfoInputs.cache
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.AssemblyInfo.fs
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.fsproj.CopyComplete
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.dll
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.pdb
+E:\Fall 2021\DOSP\Project2\Project1\Bitcoins\obj\Debug\net5.0\Bitcoins.genruntimeconfig.cache
